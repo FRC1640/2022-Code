@@ -1,0 +1,6 @@
+<PixyMon_parameters>
+ <data key="Document folder" value="C:/Users/nitsu/Documents/PixyMon" type="STRING"/>
+ <data key="Pixy start command" value="" type="STRING"/>
+ <data key="Highlight overexposure" value="0" type="INT8"/>
+ <data key="Debug" value="0" type="INT32"/>
+</PixyMon_parameters>

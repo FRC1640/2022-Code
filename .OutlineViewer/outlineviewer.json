@@ -1,0 +1,16 @@
+{
+  "NetworkTables Settings": {
+    "listenAddress": "localhost",
+    "mode": "Client",
+    "serverTeam": "1640"
+  },
+  "SmartDashboard": {
+    "open": true
+  },
+  "odometry": {
+    "open": true
+  },
+  "speed": {
+    "open": true
+  }
+}
